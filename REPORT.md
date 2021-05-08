@@ -7,9 +7,7 @@
 На тестирование затрачено: 8 часов
 
 В результате тестирования выявлены следующие дефекты:
-* [ссылка](https://docs.google.com/document/d/1SRN95Quc_vU4U5LGecLtKnrkObt79FGpe_sIVTtzskM/edit?usp=sharing)
-
-
+* [ссылка](https://github.com/KuliakQA/java1.1/issues/1#issue-881137434)
 
 ## Описание процесса тестирования
 
@@ -20,7 +18,7 @@
 
 
 В качестве тестовых данных использовались данные:
-* с сайта: https://www.getcreditcardnumbers.com/
+* [Get Credit Card Numbers](https://www.getcreditcardnumbers.com/)
 
 Тестирование производилось в следующем окружении:
 * Windows 10 / процессор x64 / Сборка ОС 19041.928
